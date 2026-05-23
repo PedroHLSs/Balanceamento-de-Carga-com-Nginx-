@@ -37,4 +37,3 @@ O arquivo `nginx/nginx.conf` define um `upstream` com `web1` e `web2`. O algorit
    ```bash
    docker compose start web1
    ```
-
